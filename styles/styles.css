@@ -98,7 +98,7 @@ body {
     justify-content: center;
     align-items: center;
     padding-bottom: 0;
-    background-image: url("/assets/header_background.jpeg");
+    background-image: url("./assets/header_background.jpeg");
     background-position: center;
 }
     .header-container figure {
